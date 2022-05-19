@@ -24,32 +24,3 @@
     <a href="https://www.linkedin.com/in/ricardoanjosn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ricardoanj.14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/code_rick_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-</div>
-  
-  <div>
-  <html>
-  <head>
-    <script async src="https://unpkg.com/phosphor-webcomponents"></script>
-  </head>
-  <body>
-    <ph-cube color="darkorchid" weight="duotone">
-      <animate
-        attributeName="opacity"
-        values="0;1;0"
-        dur="4s"
-        repeatCount="indefinite"
-      ></animate>
-      <animateTransform
-        attributeName="transform"
-        attributeType="XML"
-        type="rotate"
-        dur="5s"
-        from="0 0 0"
-        to="360 0 0"
-        repeatCount="indefinite"
-      ></animateTransform>
-    </ph-cube>
-  </body>
-</html>
-  </div>
